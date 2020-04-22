@@ -1,3 +1,10 @@
+/**
+Crie um m´etodo est´atico que receba por parˆametro uma quantidade infinita de
+parˆametros de n´umeros reais e que calcule e retorne o desvio padr˜ao. Confira
+a f´ormula do desvio padr˜ao em https://www.todamateria.com.br/desviopadrao/.
+
+*/
+
 import java.util.Scanner;
 import java.util.ArrayList;
 import java.lang.Math;
