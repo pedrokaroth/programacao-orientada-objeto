@@ -1,3 +1,8 @@
+/**
+Crie um m´etodo est´atico que receba por parˆametro uma matriz de n´umeros
+inteiros e imprima em tela o seu conte´udo.
+*/
+
 class Main {
   public static void main(String[] args) {
     int matriz[][] = new int[3][3];
